@@ -1,0 +1,30 @@
+{
+  "errno": 0,
+  "data": {
+    "name": "粥品香坊（回龙观）",
+    "description": "蜂鸟快送",
+    "deliveryTime": 38,
+    "score": 4.2,
+    "serviceScore": 4.1,
+    "foodScore": 4.3,
+    "rankRate": 69.2,
+    "minPrice": 20,
+    "deliveryPrice": 4,
+    "ratingCount": 24,
+    "sellCount": 90,
+    "bulletin": "粥品香坊其烹饪粥料的秘方源于中国千年古法，粥品香坊其烹饪粥料的秘方源于中国千年古法粥品香坊其烹饪粥料的秘方源于中国千年古法粥品香坊其烹饪粥料的秘方源于中国千年古法粥品香坊其烹饪粥料的秘方源于中国千年古法",
+    "supports": [{
+      "type": 0,
+      "description": "在线支付满28减5"
+    }, {
+      "type": 1,
+      "description": "VC无限橙果汁全场八折"
+    }, {
+      "type": 2,
+      "description": "单人精彩套餐"
+    }, {
+      "type": 3,
+      "description": "该商家支持发票，请下单写好发票抬头"
+    }]
+  }
+}
